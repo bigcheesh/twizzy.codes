@@ -28,8 +28,8 @@ export default function Experience() {
                         cardImage="/potato-logo.png"
                         cardDescription="Kyo Profile is a portfolio platform similar to guns.lol where users can create customizable portfolio pages with custom backgrounds, music, and more."
                         media={[]}
-                        myRole="Founder/Head Developer"
-                        timeline="March 2021 - Present"
+                        myRole="Head Developer"
+                        timeline="March 2021 - 2023"
                         delay={0.1}
                         gradient="bg-gradient-to-br"
                     />
