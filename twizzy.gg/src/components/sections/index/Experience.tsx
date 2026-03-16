@@ -19,7 +19,7 @@ export default function Experience() {
                 </motion.h1>
                 <ul className={`flex flex-col pt-6 pb-1 gap-4 overflow-hidden`}>
                     <ExperienceCard
-                        url="https://kyo.vercel.app"
+                        url="https://kyo.gg"
                         title="Kyo Profile"
                         fullDescription={[
                             "Kyo Profile is a portfolio platform similar to guns.lol where users can create customizable portfolio pages with custom backgrounds, music, and more. It's a platform that allows users to showcase their work and personality in a unique and personalized way.",
