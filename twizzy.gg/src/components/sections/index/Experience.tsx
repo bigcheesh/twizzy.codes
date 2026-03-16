@@ -34,7 +34,7 @@ export default function Experience() {
                         gradient="bg-gradient-to-br"
                     />
                     <ExperienceCard
-                        url="https://discord.com/oauth2/authorize?client_id=1455758313231876129&permissions=8&integration_type=0&scope=bot"
+                        url="https://discord.com/oauth2/authorize?client_id=1455758313231876129"
                         title="kyos"
                         fullDescription={[
                             "Kyos is the ultimate Discord management solution, providing bots, dashboards, and automations all in one place. It's a leading bot for management and engagement, built to elevate community experiences and streamline server management.",
