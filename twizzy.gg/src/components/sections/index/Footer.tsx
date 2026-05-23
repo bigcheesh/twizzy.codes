@@ -9,7 +9,7 @@ export default function Footer() {
                     Twizzy.gg - Made with NextJS, TailwindCSS, and ❤ by me
                 </p>
                 <p className="text-center font-medium brightness-75 text-base">
-                    Last updated: Dec 15th, 2025
+                    Last updated: May 22nd, 2026
                 </p>
             </footer>
         </>
