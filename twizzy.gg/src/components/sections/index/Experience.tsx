@@ -25,7 +25,7 @@ export default function Experience() {
                             "OpenFlow is a powerful jailbroken AI platform that lets you use models like Claude and Gemini with zero restrictions for maximum flexibility."
                         ]}
                         cardImage="/kyo.png"
-                        cardDescription="Kyo Profile is a portfolio platform similar to guns.lol where users can create customizable portfolio pages with custom backgrounds, music, and more."
+                        cardDescription="OpenFlow is a powerful jailbroken AI platform that lets you use models like Claude and Gemini with zero restrictions for maximum flexibility."
                         media={[]}
                         myRole="Developer"
                         timeline="March 2025 - Present"
