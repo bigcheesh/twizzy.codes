@@ -22,13 +22,14 @@ export default function Experience() {
                         url="https://github.com/bigcheesh/openflow"
                         title="OpenFlow"
                         fullDescription={[
-                            "OpenFlow is a powerful jailbroken AI platform that lets you use models like Claude and Gemini with zero restrictions for maximum flexibility."
+                            "OpenFlow is a powerful jailbroken AI platform that lets you use models like Claude and Gemini with zero restrictions for maximum flexibility.",
+                            "This has now been discontinued as I have stopped updating."
                         ]}
                         cardImage="/kyo.png"
                         cardDescription="OpenFlow is a powerful jailbroken AI platform that lets you use models like Claude and Gemini with zero restrictions for maximum flexibility."
                         media={[]}
                         myRole="Developer"
-                        timeline="March 2025 - Present"
+                        timeline="March 2025 - discontinued"
                         delay={0.1}
                         gradient="bg-gradient-to-br"
                     />
