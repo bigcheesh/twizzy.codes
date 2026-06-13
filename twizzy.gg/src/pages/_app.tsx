@@ -9,13 +9,13 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <NextSeo
-        title={"Twizzy.gg"}
+        title={"twizzy.codes"}
         description={"Twizzy's personal site"}
         canonical={`https://twizzy.gg${router.asPath.split("?")[0] === "/" ? "" : router.asPath.split("?")[0]}`}
         themeColor={"#2563eb"}
         openGraph={{
           url: `https://twizzy.gg${router.asPath.split("?")[0] === "/" ? "" : router.asPath.split("?")[0]}`,
-          title: "Twizzy.gg",
+          title: "twizzy.codes",
           description: "Twizzy's personal site",
           images: [
             {
