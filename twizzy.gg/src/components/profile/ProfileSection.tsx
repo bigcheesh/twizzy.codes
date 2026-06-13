@@ -28,7 +28,7 @@ const BADGES = [
 const TYPEWRITER_STRINGS = [
   "full-stack developer.",
   "building cool stuff on the web.",
-  "discord.",
+  "discord, lix.bear",
   "17 y/o from Canada.",
 ];
 
@@ -53,7 +53,7 @@ const SOCIAL_LINKS = [
   },
   {
     label: "Website",
-    url: "https://twizzygg.vercel.app",
+    url: "https://twizzy.codes",
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="h-7 w-7">
         <circle cx="12" cy="12" r="10" />
